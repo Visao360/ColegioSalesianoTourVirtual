@@ -3,34 +3,34 @@
 ## Action
 
 ### URL
-LinkBehaviour_527AA7C8_4554_F660_41C9_F42A6A8B0245.source = https://www.instagram.com/loremipsum
 LinkBehaviour_A886B97A_86DE_DF6C_41B4_C84E1DCF591C.source = https://www.instagram.com/loremipsum
-LinkBehaviour_527B97C8_4554_F660_4197_85C250E77990.source = http://atlanticoriodasostras.com.br/
+LinkBehaviour_527AA7C8_4554_F660_41C9_F42A6A8B0245.source = https://www.instagram.com/loremipsum
 LinkBehaviour_5F95685A_4480_7996_41B7_2514491CE704.source = http://atlanticoriodasostras.com.br/
-LinkBehaviour_AA4FA96C_86D6_FF64_419A_C39A2104DB18.source = https://g.page/?share
+LinkBehaviour_527B97C8_4554_F660_4197_85C250E77990.source = http://atlanticoriodasostras.com.br/
 LinkBehaviour_527DB7C8_4554_F660_41C9_FDC03CF21BEE.source = https://g.page/?share
+LinkBehaviour_AA4FA96C_86D6_FF64_419A_C39A2104DB18.source = https://g.page/?share
 WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D_mobile.url = https://maps.google.com/maps?output=embed&center=-21.7601552,-41.3414709&z=17&q=Instituto+Dom+Bosco+-+Col%C3%A9gio+Salesiano
 WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D.url = https://maps.google.com/maps?output=embed&center=-21.7601552,-41.3414709&z=17&q=Instituto+Dom+Bosco+-+Col%C3%A9gio+Salesiano
-LinkBehaviour_527A57C8_4554_F660_41B6_017C48AE4A45.source = https://wa.me/5522998694255?text=Ol%C3%A1!!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Col%C3%A9gio%20Salesiano.
 LinkBehaviour_5D488FB5_4480_169D_41CB_318AE1D38449.source = https://wa.me/5522998694255?text=Ol%C3%A1!!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Col%C3%A9gio%20Salesiano.
+LinkBehaviour_527A57C8_4554_F660_41B6_017C48AE4A45.source = https://wa.me/5522998694255?text=Ol%C3%A1!!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Col%C3%A9gio%20Salesiano.
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250.url = https://www.atlanticoriodasostras.com.br/
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250_mobile.url = https://www.atlanticoriodasostras.com.br/
-LinkBehaviour_A9DF3EE8_86D1_756D_41C9_5C199BFCA1F4.source = https://www.facebook.com/loremipsum
 LinkBehaviour_527A17C8_4554_F660_41D1_4BD00FEAD290.source = https://www.facebook.com/loremipsum
-LinkBehaviour_5EF7847B_4480_0996_41C2_6C2BA87F8EB8.source = https://www.instagram.com/salesiano_campos/
+LinkBehaviour_A9DF3EE8_86D1_756D_41C9_5C199BFCA1F4.source = https://www.facebook.com/loremipsum
 LinkBehaviour_527A97C8_4554_F660_4189_1253717B4124.source = https://www.instagram.com/salesiano_campos/
-LinkBehaviour_527A87C8_4554_F660_4179_E9BDB938A43A.source = https://www.linkedin.com/loremipsum
+LinkBehaviour_5EF7847B_4480_0996_41C2_6C2BA87F8EB8.source = https://www.instagram.com/salesiano_campos/
 LinkBehaviour_A8F66727_86DE_D4E3_41DD_CD2445CD042C.source = https://www.linkedin.com/loremipsum
-LinkBehaviour_527AE7C8_4554_F660_41C4_E7CD80F11EC1.source = https://www.pinterest.com/loremipsum
+LinkBehaviour_527A87C8_4554_F660_4179_E9BDB938A43A.source = https://www.linkedin.com/loremipsum
 LinkBehaviour_A8877BF7_86DE_D364_41CB_9FA8275956AC.source = https://www.pinterest.com/loremipsum
-LinkBehaviour_B6AE554C_86DE_D4A4_4184_112CFBD00111.source = https://www.twittercom/loremipsum
+LinkBehaviour_527AE7C8_4554_F660_41C4_E7CD80F11EC1.source = https://www.pinterest.com/loremipsum
 LinkBehaviour_527A47C8_4554_F660_4169_AE7962F5B0CE.source = https://www.twittercom/loremipsum
+LinkBehaviour_B6AE554C_86DE_D4A4_4184_112CFBD00111.source = https://www.twittercom/loremipsum
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9_mobile.url = //www.youtube.com/embed/BLisA8zYphs
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9.url = //www.youtube.com/embed/BLisA8zYphs
-LinkBehaviour_527D77C8_4554_F660_41CB_08BA175B9F2C.source = mailto: lorem@ipsum.com
 LinkBehaviour_A8C367DF_86F1_D3A4_41A1_DF993AC21B46.source = mailto: lorem@ipsum.com
-LinkBehaviour_527D57B9_4554_F620_41C0_C78B64294CBC.source = tel: +34 666 777 888
+LinkBehaviour_527D77C8_4554_F660_41CB_08BA175B9F2C.source = mailto: lorem@ipsum.com
 LinkBehaviour_AA56F6C4_86F2_B5A5_41CA_485A44846DD5.source = tel: +34 666 777 888
+LinkBehaviour_527D57B9_4554_F620_41C0_C78B64294CBC.source = tel: +34 666 777 888
 
 ## Media
 
@@ -77,25 +77,25 @@ panorama_D0DD6DF8_CB1D_462B_41C2_A4CE123A3F80.subtitle = Colégio Salesiano
 panorama_D0DCA8C7_CB1C_CE65_41E5_6C4F4B90CBE6.label = AUDITÓRIO
 panorama_D0D32D05_CB1D_47E5_41E1_20912CE454F7.label = BIBLIOTECA
 panorama_D0DD6DF8_CB1D_462B_41C2_A4CE123A3F80.label = CAPELA
-panorama_D8BF43D8_CB37_78CD_41D5_3345824C42F3.label = CORREDOR I
-panorama_D8B3D54D_CB37_59C7_41E4_2E2086E91B7B.label = CORREDOR II
-panorama_DD296E21_CB15_C5DD_41DB_E30A53FCFCB5.label = CORREDOR III SALA FUNDAMENTAL II
+panorama_D0D2E81A_CB1C_CDEF_41E5_0F9EE5B03356.label = CORREDOR 2ºANDAR  IV
+panorama_D3E70DF1_CB6C_C63D_41DD_3DF825505D17.label = CORREDOR 2ºANDAR I
+panorama_DCAA8FC3_CB6F_425D_41CF_B1ADB2945A88.label = CORREDOR 2ºANDAR II
+panorama_DCAA3295_CB6F_42E5_41A0_33C6286836B4.label = CORREDOR 2ºANDAR III
 panorama_D28F072C_CB74_C22B_419E_D4DAC8559923.label = CORREDOR INFANTIL I
 panorama_D28F3759_CB74_C26D_417C_97DD723CC5EC.label = CORREDOR INFANTIL II
-panorama_D614A802_CB1F_4DDF_41C9_A0884B79D9CC.label = CORREDOR INFANTIL IV
-panorama_D8B36589_CB37_B94F_41E6_70EFEB471D9C.label = CORREDOR IV
-panorama_DD2A7087_CB15_BEE5_41DE_4BEC8B234BC4.label = CORREDOR LABORATÓRIO DE CIÊNCIAS
+panorama_D614A802_CB1F_4DDF_41C9_A0884B79D9CC.label = CORREDOR INFANTIL III
+panorama_D8BF43D8_CB37_78CD_41D5_3345824C42F3.label = CORREDOR PÁTIO I
+panorama_D8B3D54D_CB37_59C7_41E4_2E2086E91B7B.label = CORREDOR PÁTIO II
+panorama_DD296E21_CB15_C5DD_41DB_E30A53FCFCB5.label = CORREDOR PÁTIO III
+panorama_D8B36589_CB37_B94F_41E6_70EFEB471D9C.label = CORREDOR PÁTIO IV
+panorama_DD2A7087_CB15_BEE5_41DE_4BEC8B234BC4.label = CORREDOR PÁTIO V
 panorama_D0525158_CB73_7E6B_41DB_23B8EE1598E3.label = CORREDOR QUADRA I
 panorama_D28F351E_CB73_47E7_41D1_ADC45BCD2CB0.label = CORREDOR QUADRA II
-panorama_D0D2E81A_CB1C_CDEF_41E5_0F9EE5B03356.label = CORREDOR SUPERIOR  IV AUDITÓRIO
-panorama_D3E70DF1_CB6C_C63D_41DD_3DF825505D17.label = CORREDOR SUPERIOR I
-panorama_DCAA8FC3_CB6F_425D_41CF_B1ADB2945A88.label = CORREDOR SUPERIOR II
-panorama_DCAA3295_CB6F_42E5_41A0_33C6286836B4.label = CORREDOR SUPERIOR III
 panorama_DE9306BB_CB34_BB43_41B8_903248BED680.label = ENTRADA 
 panorama_D28EC644_CB74_C264_41B1_A0A8328292BA.label = ENTRADA INFANTIL
 panorama_D0DD4DCB_CB1D_466D_41B1_96E25FAAB762.label = ESTACIONAMENTO
-panorama_DD292008_CB15_DDEB_41D0_C96D9FBAFFC7.label = LABORATÓRIO DE CIÊNCIAS
 panorama_DD2A4FAF_CB15_4225_41E6_17E8CC3F4B85.label = LABORATÓRIO DE CIÊNCIAS
+panorama_DD292008_CB15_DDEB_41D0_C96D9FBAFFC7.label = LABORATÓRIO DE CIÊNCIAS
 panorama_D0DCF922_CB1C_CFDF_41D0_CCA518840109.label = PARQUINHO
 panorama_D0DC8DBE_CB1D_4627_41E5_D1BFE4961808.label = PASTORAL
 panorama_D0DD1A68_CB1C_C22B_41DD_D150144DA1FE.label = POMAR
