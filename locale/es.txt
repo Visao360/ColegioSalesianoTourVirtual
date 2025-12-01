@@ -3,39 +3,39 @@
 ## Action
 
 ### URL
-LinkBehaviour_A886B97A_86DE_DF6C_41B4_C84E1DCF591C.source = https://www.instagram.com/loremipsum
 LinkBehaviour_527AA7C8_4554_F660_41C9_F42A6A8B0245.source = https://www.instagram.com/loremipsum
-LinkBehaviour_5F95685A_4480_7996_41B7_2514491CE704.source = http://atlanticoriodasostras.com.br/
+LinkBehaviour_A886B97A_86DE_DF6C_41B4_C84E1DCF591C.source = https://www.instagram.com/loremipsum
 LinkBehaviour_527B97C8_4554_F660_4197_85C250E77990.source = http://atlanticoriodasostras.com.br/
-LinkBehaviour_527DB7C8_4554_F660_41C9_FDC03CF21BEE.source = https://g.page/?share
+LinkBehaviour_5F95685A_4480_7996_41B7_2514491CE704.source = http://atlanticoriodasostras.com.br/
 LinkBehaviour_AA4FA96C_86D6_FF64_419A_C39A2104DB18.source = https://g.page/?share
+LinkBehaviour_527DB7C8_4554_F660_41C9_FDC03CF21BEE.source = https://g.page/?share
 WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D_mobile.url = https://maps.google.com/maps?output=embed&center=-21.7601552,-41.3414709&z=17&q=Instituto+Dom+Bosco+-+Col%C3%A9gio+Salesiano
 WebFrame_A2A006DE_86B1_75A4_41C4_D4E62CE6C64D.url = https://maps.google.com/maps?output=embed&center=-21.7601552,-41.3414709&z=17&q=Instituto+Dom+Bosco+-+Col%C3%A9gio+Salesiano
-LinkBehaviour_5D488FB5_4480_169D_41CB_318AE1D38449.source = https://wa.me/5522998694255?text=Ol%C3%A1!!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Col%C3%A9gio%20Salesiano.
 LinkBehaviour_527A57C8_4554_F660_41B6_017C48AE4A45.source = https://wa.me/5522998694255?text=Ol%C3%A1!!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Col%C3%A9gio%20Salesiano.
+LinkBehaviour_5D488FB5_4480_169D_41CB_318AE1D38449.source = https://wa.me/5522998694255?text=Ol%C3%A1!!%20Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Col%C3%A9gio%20Salesiano.
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250.url = https://www.atlanticoriodasostras.com.br/
 WebFrame_A040CDAB_86B3_77EC_41C7_28A9F28EC250_mobile.url = https://www.atlanticoriodasostras.com.br/
-LinkBehaviour_527A17C8_4554_F660_41D1_4BD00FEAD290.source = https://www.facebook.com/loremipsum
 LinkBehaviour_A9DF3EE8_86D1_756D_41C9_5C199BFCA1F4.source = https://www.facebook.com/loremipsum
-LinkBehaviour_527A97C8_4554_F660_4189_1253717B4124.source = https://www.instagram.com/salesiano_campos/
+LinkBehaviour_527A17C8_4554_F660_41D1_4BD00FEAD290.source = https://www.facebook.com/loremipsum
 LinkBehaviour_5EF7847B_4480_0996_41C2_6C2BA87F8EB8.source = https://www.instagram.com/salesiano_campos/
-LinkBehaviour_A8F66727_86DE_D4E3_41DD_CD2445CD042C.source = https://www.linkedin.com/loremipsum
+LinkBehaviour_527A97C8_4554_F660_4189_1253717B4124.source = https://www.instagram.com/salesiano_campos/
 LinkBehaviour_527A87C8_4554_F660_4179_E9BDB938A43A.source = https://www.linkedin.com/loremipsum
-LinkBehaviour_A8877BF7_86DE_D364_41CB_9FA8275956AC.source = https://www.pinterest.com/loremipsum
+LinkBehaviour_A8F66727_86DE_D4E3_41DD_CD2445CD042C.source = https://www.linkedin.com/loremipsum
 LinkBehaviour_527AE7C8_4554_F660_41C4_E7CD80F11EC1.source = https://www.pinterest.com/loremipsum
-LinkBehaviour_527A47C8_4554_F660_4169_AE7962F5B0CE.source = https://www.twittercom/loremipsum
+LinkBehaviour_A8877BF7_86DE_D364_41CB_9FA8275956AC.source = https://www.pinterest.com/loremipsum
 LinkBehaviour_B6AE554C_86DE_D4A4_4184_112CFBD00111.source = https://www.twittercom/loremipsum
+LinkBehaviour_527A47C8_4554_F660_4169_AE7962F5B0CE.source = https://www.twittercom/loremipsum
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9_mobile.url = //www.youtube.com/embed/BLisA8zYphs
 WebFrame_24A338BD_8120_62D4_41D4_110ED4F039F9.url = //www.youtube.com/embed/BLisA8zYphs
-LinkBehaviour_A8C367DF_86F1_D3A4_41A1_DF993AC21B46.source = mailto: lorem@ipsum.com
 LinkBehaviour_527D77C8_4554_F660_41CB_08BA175B9F2C.source = mailto: lorem@ipsum.com
-LinkBehaviour_AA56F6C4_86F2_B5A5_41CA_485A44846DD5.source = tel: +34 666 777 888
+LinkBehaviour_A8C367DF_86F1_D3A4_41A1_DF993AC21B46.source = mailto: lorem@ipsum.com
 LinkBehaviour_527D57B9_4554_F620_41C0_C78B64294CBC.source = tel: +34 666 777 888
+LinkBehaviour_AA56F6C4_86F2_B5A5_41CA_485A44846DD5.source = tel: +34 666 777 888
 
 ## Media
 
 ### Audio
-audiores_E81067CE_D679_4BE4_41C5_E8082AA465FD.mp3Url = media/audio_E5899A92_D679_4591_41DF_DBA4BEAC9760_pt.mp3
+audiores_C651FD6F_DA86_45FD_41B8_349FE926541A.mp3Url = media/audio_D59CF313_DA81_DD24_41E3_3063C3AFF179_pt.mp3
 audiores_EDBD21B8_D679_47AC_41E0_5A538DA513D0.mp3Url = media/audio_E5D9B52F_D67F_CCA4_41E7_78E39DA8BB7E_pt.mp3
 
 ### Subtitle
@@ -43,11 +43,11 @@ panorama_DCAAE4EC_CB6F_C624_41C7_DA7AD3F238AE.subtitle = Colégio Salesiano
 panorama_D0DC8DBE_CB1D_4627_41E5_D1BFE4961808.subtitle = Colégio Salesiano
 panorama_D8BF43D8_CB37_78CD_41D5_3345824C42F3.subtitle = Colégio Salesiano
 panorama_D8B3D54D_CB37_59C7_41E4_2E2086E91B7B.subtitle = Colégio Salesiano
-panorama_D33ECE4E_CB15_4267_41B2_6627CFAC717B.subtitle = Colégio Salesiano
 panorama_DD296E21_CB15_C5DD_41DB_E30A53FCFCB5.subtitle = Colégio Salesiano
 panorama_DD297D53_CB15_C67C_41D9_6A6EEA608C49.subtitle = Colégio Salesiano
 panorama_D8B36589_CB37_B94F_41E6_70EFEB471D9C.subtitle = Colégio Salesiano
 panorama_D8B364FA_CB37_D8CD_41DF_55850E4E563B.subtitle = Colégio Salesiano
+panorama_D33ECE4E_CB15_4267_41B2_6627CFAC717B.subtitle = Colégio Salesiano
 panorama_DD2A4FAF_CB15_4225_41E6_17E8CC3F4B85.subtitle = Colégio Salesiano
 panorama_DD2A7087_CB15_BEE5_41DE_4BEC8B234BC4.subtitle = Colégio Salesiano
 panorama_DD292008_CB15_DDEB_41D0_C96D9FBAFFC7.subtitle = Colégio Salesiano
@@ -88,7 +88,8 @@ panorama_D8BF43D8_CB37_78CD_41D5_3345824C42F3.label = CORREDOR PÁTIO I
 panorama_D8B3D54D_CB37_59C7_41E4_2E2086E91B7B.label = CORREDOR PÁTIO II
 panorama_DD296E21_CB15_C5DD_41DB_E30A53FCFCB5.label = CORREDOR PÁTIO III
 panorama_D8B36589_CB37_B94F_41E6_70EFEB471D9C.label = CORREDOR PÁTIO IV
-panorama_DD2A7087_CB15_BEE5_41DE_4BEC8B234BC4.label = CORREDOR PÁTIO V
+panorama_CC3F0650_DA82_4723_41D5_185D1F301B08.label = CORREDOR PÁTIO V
+panorama_DD2A7087_CB15_BEE5_41DE_4BEC8B234BC4.label = CORREDOR PÁTIO VI
 panorama_D0525158_CB73_7E6B_41DB_23B8EE1598E3.label = CORREDOR QUADRA I
 panorama_D28F351E_CB73_47E7_41D1_ADC45BCD2CB0.label = CORREDOR QUADRA II
 panorama_DE9306BB_CB34_BB43_41B8_903248BED680.label = ENTRADA 
@@ -165,40 +166,40 @@ Button_63F387D4_7D49_B98C_41DE_931C3C70AE26_mobile.label = CLOSE MENU
 Button_63F387D4_7D49_B98C_41DE_931C3C70AE26.label = CLOSE MENU
 Button_C0815EB4_86E4_ADDB_41CF_06B21BB7D687.label = Lorem Ipsum
 Button_C0815EB4_86E4_ADDB_41CF_06B21BB7D687_mobile.label = Lorem Ipsum
-Button_61098041_7D59_9684_41D1_C4346757AA63_mobile.label = COMPANY WEB
 Button_61098041_7D59_9684_41D1_C4346757AA63.label = COMPANY WEB
-Button_83894D84_D06F_8549_41E9_AD0DDEFD7796.label = SETTINGS
+Button_61098041_7D59_9684_41D1_C4346757AA63_mobile.label = COMPANY WEB
 Button_83894D84_D06F_8549_41E9_AD0DDEFD7796_mobile.label = SETTINGS
-Button_6136011A_7D59_9684_41BA_AA227EB4FADB_mobile.label = CONTACT
+Button_83894D84_D06F_8549_41E9_AD0DDEFD7796.label = SETTINGS
 Button_6136011A_7D59_9684_41BA_AA227EB4FADB.label = CONTACT
+Button_6136011A_7D59_9684_41BA_AA227EB4FADB_mobile.label = CONTACT
 Button_838BCD92_D06F_8549_41E1_5A1EC71EDE38.label = CONTACT
 Button_838BCD92_D06F_8549_41E1_5A1EC71EDE38_mobile.label = CONTACT
-Button_83880D89_D06F_855B_41D5_FEA698533962_mobile.label = HOUSE DETAILS
 Button_83880D89_D06F_855B_41D5_FEA698533962.label = HOUSE DETAILS
-Button_CDC5C6CF_8321_AEB3_41D0_2A64A6D8E695.label = Dressing Room
+Button_83880D89_D06F_855B_41D5_FEA698533962_mobile.label = HOUSE DETAILS
+Button_FDCDE995_83E0_A2D7_41C3_4BCA2F81B08E.label = Dressing Room
 Button_CDC5C6CF_8321_AEB3_41D0_2A64A6D8E695_mobile.label = Dressing Room
 Button_FDCDE995_83E0_A2D7_41C3_4BCA2F81B08E_mobile.label = Dressing Room
-Button_FDCDE995_83E0_A2D7_41C3_4BCA2F81B08E.label = Dressing Room
+Button_CDC5C6CF_8321_AEB3_41D0_2A64A6D8E695.label = Dressing Room
+Button_C0824ED6_86E4_AD47_41D7_D78F8822E981.label = ROOMS
+Button_C0824ED6_86E4_AD47_41D7_D78F8822E981_mobile.label = ROOMS
 Button_C0821ED8_86E4_AD4B_41AB_311A04EEF24D_mobile.label = GUEST ROOMS
 Button_C0821ED8_86E4_AD4B_41AB_311A04EEF24D.label = GUEST ROOMS
 Button_C0823EDA_86E4_AD4F_41CB_95D7ACEE614A_mobile.label = TERRACE
 Button_C0823EDA_86E4_AD4F_41CB_95D7ACEE614A.label = TERRACE
-Button_C0824ED6_86E4_AD47_41D7_D78F8822E981.label = ROOMS
-Button_C0824ED6_86E4_AD47_41D7_D78F8822E981_mobile.label = ROOMS
-Button_C082FEDB_86E4_AD4D_41D9_2F38C22C64AA_mobile.label = GARDEN
 Button_C082FEDB_86E4_AD4D_41D9_2F38C22C64AA.label = GARDEN
+Button_C082FEDB_86E4_AD4D_41D9_2F38C22C64AA_mobile.label = GARDEN
 Button_90A50FF6_877C_EB44_41CC_3CCA9085D666_mobile.label = ENTER VR MODE
 Button_90A50FF6_877C_EB44_41CC_3CCA9085D666.label = ENTER VR MODE
-Button_C0982EA0_86E4_ADFB_41C7_175288384A92.label = ENTRANCE
 Button_C0982EA0_86E4_ADFB_41C7_175288384A92_mobile.label = ENTRANCE
-Button_C083DEC7_86E4_AD45_41E0_EEC0312D4C51.label = Lorem Ipsum
-Button_CE28863F_D5F9_CCA4_41D8_E54BCA88D792_mobile.label = COMMUNITY SPACES
-Button_C083DEC7_86E4_AD45_41E0_EEC0312D4C51_mobile.label = Lorem Ipsum
+Button_C0982EA0_86E4_ADFB_41C7_175288384A92.label = ENTRANCE
 Button_E4903367_D44B_B296_41AA_F32326C1A703.label = OTHER SPACES
-Button_CDC416D1_8321_AEAF_41DD_018C5175684E_mobile.label = Elevator
-Button_FDCD7997_83E0_A2D3_41D8_096D573291C8.label = Elevator
+Button_CE28863F_D5F9_CCA4_41D8_E54BCA88D792_mobile.label = COMMUNITY SPACES
+Button_C083DEC7_86E4_AD45_41E0_EEC0312D4C51.label = Lorem Ipsum
+Button_C083DEC7_86E4_AD45_41E0_EEC0312D4C51_mobile.label = Lorem Ipsum
 Button_CDC416D1_8321_AEAF_41DD_018C5175684E.label = Elevator
 Button_FDCD7997_83E0_A2D3_41D8_096D573291C8_mobile.label = Elevator
+Button_FDCD7997_83E0_A2D3_41D8_096D573291C8.label = Elevator
+Button_CDC416D1_8321_AEAF_41DD_018C5175684E_mobile.label = Elevator
 Button_838ABDB5_D06F_854B_419F_C1410BD133A3_mobile.label = CLOSE MENU
 Button_838A7DD5_D06F_84CB_41E4_480B9E5FF667_mobile.label = CLOSE MENU
 Button_838ABDB5_D06F_854B_419F_C1410BD133A3.label = CLOSE MENU
